@@ -1,0 +1,25 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+License: https://creativecommons.org/licenses/by/4.0/
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Scope of this notice
+--------------------
+To the extent the Phoenix-OI authors hold the necessary rights, the following original project-authored non-software materials are offered under CC BY 4.0:
+
+- the GitHub README and original documentation in `docs/`;
+- project-authored method and usage documentation;
+- original, copyrightable result tables, captions, metadata, and documentation authored for Phoenix-OI, where explicitly distributed under CC BY 4.0.
+
+The curated Dataset63 files, standardized data variants, provenance records and benchmark result archives are hosted on Zenodo, not in this GitHub repository:
+
+DOI: 10.5281/zenodo.22503472
+URL: https://doi.org/10.5281/zenodo.22503472
+
+Third-party dataset content is NOT relicensed by this file. It may be subject to its own licenses or terms; consult the Zenodo record and original dataset providers. Project-authored documentation and derived metadata are distinct from rights in the underlying dataset samples.
+
+Conditions under CC BY 4.0
+--------------------------
+When reusing covered original project materials, give appropriate credit, link to the CC BY 4.0 license, and indicate whether changes were made, without implying endorsement by the authors.
+
+For code, see LICENSE (Apache License 2.0). For citation guidance, see ATTRIBUTION.md.

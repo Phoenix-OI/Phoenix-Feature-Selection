@@ -1,0 +1,49 @@
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local outputs and experiment logs
+results/
+outputs/
+logs/
+runs/
+benchmark_results/
+gpsisf_paper_results/
+
+# Dataset63 and extracted Zenodo materials (keep in Zenodo, not GitHub)
+/dataset63/
+/data/
+/datasets/
+/zenodo_data/
+/zenodo_downloads/
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.xlsx
+*.xls
+*.pkl
+*.joblib
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git note: .gitignore does not untrack files that were previously committed.

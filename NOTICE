@@ -1,0 +1,16 @@
+Phoenix-OI: Cross-Phase Orthogonal Inference for Expensive High-Dimensional Wrapper Feature Selection
+Copyright 2026 Chia-Hsun Yen
+
+Original Phoenix-OI implementation: Apache License, Version 2.0 (see LICENSE).
+Original project-authored non-code materials, to the extent licensable by their authors: CC BY 4.0 (see LICENSE-DATA).
+
+Data availability:
+The curated Dataset63 and supporting benchmark/provenance/results materials are distributed separately via https://doi.org/10.5281/zenodo.22503472. Neither the data DOI nor dataset copyright belongs to this source-code release by implication.
+
+Third-party rights:
+The Dataset63 collection incorporates datasets from earlier sources. Retain the original providers' citations, notices, and applicable dataset licenses. If oa_package/ includes externally sourced code, its upstream attribution/license must also be checked and retained; the project copyright statement above applies only to original project contributions.
+
+Software repository:
+https://github.com/Phoenix-OI/Phoenix-Feature-Selection
+
+The associated Phoenix-OI article is a manuscript; add a definitive article citation after publication.

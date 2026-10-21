@@ -1,0 +1,9 @@
+# Reported primary-benchmark environment: Python 3.9.21
+# Versions below are reported in Phoenix-OI_v44 manuscript (Section IV).
+numpy==1.24.0
+pandas==1.5.2
+scipy==1.9.3
+scikit-learn==1.1.3
+joblib==1.2.0
+# Plotting is imported by Phoenix.py; manuscript does not state its exact version.
+matplotlib>=3.5,<3.9

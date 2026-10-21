@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite this software repository when using the Phoenix-OI implementation, cite the linked Zenodo record when using Dataset63 or benchmark resources, and cite the associated paper once published."
+type: software
+title: "Phoenix-OI: Cross-Phase Orthogonal Inference for Expensive High-Dimensional Wrapper Feature Selection"
+authors:
+  - family-names: "Yen"
+    given-names: "Chia-Hsun"
+version: "0.1.0"
+date-released: "2026-09-03"
+repository-code: "https://github.com/Phoenix-OI/Phoenix-Feature-Selection"
+license: "Apache-2.0"
+keywords:
+  - feature selection
+  - particle swarm optimization
+  - orthogonal inference
+  - orthogonal experimental design
+  - wrapper method
+  - high-dimensional classification
+abstract: "Functional implementation of Phoenix-OI, an OED/OA/MED-guided PSO wrapper feature-selection algorithm with cross-phase Orthogonal Inference for high-dimensional classification."
+references:
+  - type: dataset
+    title: "Dataset63 and supporting benchmark resources for Phoenix-OI"
+    doi: "10.5281/zenodo.22503472"
+    url: "https://doi.org/10.5281/zenodo.22503472"
+    year: 2026
+    notes: "Data and benchmark resources are distributed separately from this software repository. Check Zenodo for exact dataset citation, licensing and provenance."
